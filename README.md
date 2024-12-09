@@ -1,2 +1,7 @@
-# ECHEN0719's Personal SLiM Themes
-A collection of SLiM themes that I made for my display manager.
+# Some SLiM Themes
+
+I installed and use Linux (Arch BTW) as my operating on a daily basis. I could use CLI but I do want a good-looking, simple, memory efficent display manager that greets meet on startup and locks my screen when I am away. Here are some of my SLiM themes to share.
+
+## Download
+
+According to your Linux distro, find the SLiM package in their repositories. 
