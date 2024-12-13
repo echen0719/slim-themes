@@ -13,7 +13,7 @@ Arch Based: sudo pacman -S slim
 
 ## SLiM Theme Configuration
 
-1. You can go to releases to download all SLiM themes if you want or you can download each individual folder yourself
+1. You can browse the repository to download all SLiM themes. You can choose multiple at the same time.
 2. After SLiM is installed, theme folders should be located at /usr/share/slim/themes/. Check this directory to make sure they are there
 3. Copy and paste or move the folder of the theme that you have downloaded into this folder
 4. Use your system editor to edit /etc/slim.conf and change the value of current theme to the theme's folder name (i.e. Arch Dark Text)
