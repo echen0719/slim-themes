@@ -1,0 +1,8 @@
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            595
+input_name_y            525
+input_pass_x            595
+input_pass_y            685
+input_font              Sans:size=40:dpi=90
+input_color             #000000
