@@ -50,6 +50,12 @@ login_cmd           exec /bin/bash -login /etc/X11/xinit/xinitrc
 
 5. Reboot your system and enjoy your new SLiM theme!
 
+## Previews
+
+Arch Dark Text|Arch Light Text
+|--|--|
+![image](https://raw.githubusercontent.com/echen0719/slim-themes/refs/heads/main/WXGA%20HD%20(1366x768)/Arch%20Dark%20Text/preview.png)|![image](https://raw.githubusercontent.com/echen0719/slim-themes/refs/heads/main/WXGA%20HD%20(1366x768)/Arch%20Light%20Text/preview.png)
+
 ## Future
 
 I am going to continue to make SLiM themes but I also have school. I'll try my best to add more themes for you guys.
@@ -59,3 +65,5 @@ I am going to continue to make SLiM themes but I also have school. I'll try my b
 I know that SLiM has basically been dead for the past decade. I use it because it is just efficent, low memory usage, and is perfectly customizable. Sometimes, things don't need to be frequently updated for it to work.
 
 *** Note: The Arch Linux Wiki has a great page on SLiM: https://wiki.archlinux.org/title/SLiM.
+
+### Thanks to @adi1090x on Github for inspiring me 🙂
